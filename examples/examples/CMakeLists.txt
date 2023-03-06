@@ -1,0 +1,2 @@
+mdspan_add_example(stride_example)
+mdspan_add_example(function_call)
